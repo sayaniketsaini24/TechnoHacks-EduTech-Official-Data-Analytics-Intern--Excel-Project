@@ -16,3 +16,6 @@ Vrinda Store aims to develop a comprehensive annual sales report for 2022, enabl
 - Which channel is contributing the most to sales?
 - Highest-selling category.
 - Percentage of total orders delivered.
+
+## Dashboard Interaction:
+-<a href="https://github.com/sayaniketsaini24/Vrinda-Store-Annual-Report-2022--Excel-Project/blob/main/Screenshot%202024-10-20%20130016.png">View Dashboard</a>
