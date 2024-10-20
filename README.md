@@ -17,13 +17,14 @@ Vrinda Store aims to develop a comprehensive annual sales report for 2022, enabl
 - Highest-selling category.
 - Percentage of total orders delivered.
 
-- Dashboard Interaction: <a href="https://github.com/sayaniketsaini24/Vrinda-Store-Annual-Report-2022--Excel-Project/blob/main/Screenshot%202024-10-20%20130016.png">View Dashboard</a>
-
 ## Process:
 - Verified data for any missing values, inconsistencies, and anomalies, and resolved them accordingly.
 - Ensured data is consistent and clean with respect to data types, formats, and values used.
 - Created pivot tables based on the questions asked.
 - Merged all pivot tables into a single dashboard and applied slicers to make it dynamic.
 
-## Dashboard:
+## Dashboard Interaction:
 ![Screenshot 2024-10-20 130016](https://github.com/user-attachments/assets/f2ac2600-914b-4e30-8e62-88b50d6db1c6)
+
+## Final Conclusion:
+To boost sales at Vrinda Store, a targeted marketing strategy should focus on women aged 30-49 in Maharashtra, Karnataka, and Uttar Pradesh—key contributors to sales. Tailored digital campaigns and personalized promotions aimed at this demographic will drive engagement and capitalize on their purchasing power for household and lifestyle products.
