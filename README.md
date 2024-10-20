@@ -27,4 +27,4 @@ Vrinda Store aims to develop a comprehensive annual sales report for 2022, enabl
 ![Screenshot 2024-10-20 130016](https://github.com/user-attachments/assets/f2ac2600-914b-4e30-8e62-88b50d6db1c6)
 
 ## Final Conclusion:
-To boost sales at Vrinda Store, a targeted marketing strategy should focus on women aged 30-49 in Maharashtra, Karnataka, and Uttar Pradesh—key contributors to sales. Tailored digital campaigns and personalized promotions aimed at this demographic will drive engagement and capitalize on their purchasing power for household and lifestyle products.
+To boost sales at Vrinda Store, a targeted marketing strategy should focus on women aged 30-49 in Maharashtra, Karnataka, and Uttar Pradesh — key contributors to sales. Tailored digital campaigns and personalized promotions aimed at this demographic will drive engagement and capitalize on their purchasing power for household and lifestyle products.
