@@ -19,3 +19,9 @@ Vrinda Store aims to develop a comprehensive annual sales report for 2022, enabl
 
 ## Dashboard Interaction:
 -<a href="https://github.com/sayaniketsaini24/Vrinda-Store-Annual-Report-2022--Excel-Project/blob/main/Screenshot%202024-10-20%20130016.png">View Dashboard</a>
+
+## Process:
+- Verified data for any missing values, inconsistencies, and anomalies, and resolved them accordingly.
+- Ensured data is consistent and clean with respect to data types, formats, and values used.
+- Created pivot tables based on the questions asked.
+- Merged all pivot tables into a single dashboard and applied slicers to make it dynamic.
