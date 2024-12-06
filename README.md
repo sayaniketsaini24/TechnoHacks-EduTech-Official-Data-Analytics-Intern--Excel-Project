@@ -33,5 +33,14 @@ Vrinda Store aims to develop a comprehensive annual sales report for 2022, enabl
 - The highest number of products is ordered by customers from Amazon, Flipkart, and Myntra channels.
 - More than 90% of the products are delivered.
 
+## Tools Used:
+- Microsoft Excel: For data cleaning, pre-processing, analysis, and visualization.
+
+## Usage:
+To explore the sales dashboard and gain insights into sales performance:
+1. **Dashboard Screenshot:** View the provided screenshot to get an overview of the dynamic sales dashboard.
+2. **Open the Dashboard Excel file:** Open the provided Excel file to explore the dynamic sales dashboard, interact with the data, and gain insights from the cleaned and pre-processed sales metrics.
+3. **Dashboard Excel file:** <a href="https://github.com/sayaniketsaini24/TechnoHacks-EduTech-Official-Data-Analytics-Intern--Excel-Project/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Clink Here</a>
+
 ## Final Conclusion:
 To boost sales at Vrinda Store, a targeted marketing strategy should focus on women aged 30-49 in Maharashtra, Karnataka, and Uttar Pradesh — key contributors to sales. Tailored digital campaigns and personalized promotions aimed at this demographic will drive engagement and capitalize on their purchasing power for household and lifestyle products.
